@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/product-analysis-using-nlp/static/css/main.8249134d.css",
+    "main.js": "/product-analysis-using-nlp/static/js/main.8598ade5.js",
+    "static/js/787.48c925b7.chunk.js": "/product-analysis-using-nlp/static/js/787.48c925b7.chunk.js",
+    "static/media/banner.jpg": "/product-analysis-using-nlp/static/media/banner.fb6a261b527058f6ad27.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/product-analysis-using-nlp/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/product-analysis-using-nlp/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/product-analysis-using-nlp/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/product-analysis-using-nlp/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/Chat bot-pana.svg": "/product-analysis-using-nlp/static/media/Chat bot-pana.97bab49c96e10a1b2f39f18bc6f21643.svg",
+    "static/media/nav-icon3.svg": "/product-analysis-using-nlp/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/github.svg": "/product-analysis-using-nlp/static/media/github.f9e095cd1e563290585e1fdc6fd29cbe.svg",
+    "index.html": "/product-analysis-using-nlp/index.html",
+    "static/media/nav-icon1.svg": "/product-analysis-using-nlp/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.8249134d.css.map": "/product-analysis-using-nlp/static/css/main.8249134d.css.map",
+    "main.8598ade5.js.map": "/product-analysis-using-nlp/static/js/main.8598ade5.js.map",
+    "787.48c925b7.chunk.js.map": "/product-analysis-using-nlp/static/js/787.48c925b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8249134d.css",
+    "static/js/main.8598ade5.js"
+  ]
+}
